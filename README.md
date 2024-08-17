@@ -9,6 +9,19 @@
 <br/>
 
 
+<div align="center">
+ 
+ 🔭 I’m currently working on a **Specialization Course**
+ 
+ 🌱 I’m currently learning **React, JavaScript, TypeScript**
+
+💬 Ask me about **Node.js, React ... or anything 
+
+⚡ Fun fact **The term “World Wide Web” was invented by Tim Berners in 1990.**
+
+ </div>
+
+
 <!--
 **luizsants/luizsants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
