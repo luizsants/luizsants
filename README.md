@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on a **Specialization Course**
  
- 🌱 I’m currently learning **React, JavaScript, TypeScript**
+ 🌱 I’m currently learning **React, TypeScript**
 
 💬 Ask me about **Node.js, React ... or anything 
 
