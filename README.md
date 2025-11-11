@@ -5,11 +5,10 @@
 </h1>
 <h3 align="center">Um desenvolvedor de software do Brasil 🇧🇷</h3>
 <br/>
-<div align="center">
- 🔭 Atualmente estou trabalhando em **Projetos Pessoais**<br>
- 🌱 Estou aprendendo **Clean Architecture e SOLID**<br>
- 💬 Pode me perguntar sobre **NodeJs, React... ou qualquer coisa**<br>
- ⚡ Fato engraçado **O primeiro site da história (criado por Tim Berners-Lee em 1991) ainda está no ar… e o único objetivo dele é explicar o que é a World Wide Web. É basicamente um README de 34 anos que nunca foi atualizado!**
+<div align="left">
+ 🔭 Atualmente estou trabalhando em: Projetos Pessoais<br>
+ 🌱 Estou me desenvolvendo nos assuntos de: Clean Architecture e SOLID<br>
+ ⚡ Fato engraçado: O primeiro site da história (criado por Tim Berners-Lee em 1991) ainda está no ar… e o único objetivo dele é explicar o que é a World Wide Web. É basicamente um README de 34 anos que nunca foi atualizado!
 </div>
 <div align="center">
   <a href="https://github.com/luizsants" target="_blank">
