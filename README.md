@@ -6,18 +6,12 @@
 <h3 align="center">Um desenvolvedor de software do Brasil 🇧🇷</h3>
 <br/>
 <div align="center">
- 🔭 Atualmente estou trabalhando em **Projetos Pessoais**  
- 🌱 Estou aprendendo **Clean Architecture e SOLID**  
- 💬 Pode me perguntar sobre **NodeJs, React... ou qualquer coisa**  
+ 🔭 Atualmente estou trabalhando em **Projetos Pessoais**<br>
+ 🌱 Estou aprendendo **Clean Architecture e SOLID**<br>
+ 💬 Pode me perguntar sobre **NodeJs, React... ou qualquer coisa**<br>
  ⚡ Fato engraçado **O primeiro site da história (criado por Tim Berners-Lee em 1991) ainda está no ar… e o único objetivo dele é explicar o que é a World Wide Web. É basicamente um README de 34 anos que nunca foi atualizado!**
- </div>
+</div>
 <div align="center">
-  <a href="mailto:luizfernando.santos900@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <!-- <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
   <a href="https://github.com/luizsants" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
